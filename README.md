@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning AngularJS.
 - 👯 I’m looking to collaborate on Python, Django, ReactJS and open source projects.
 - 💬 Ask me about Python, Django, ReactJS, ML, AI, CI/CD, Docker, Kubernetes, GCP.
-- 📫 How to reach me: Linkedin and Github.
+- 📫 How to reach me: Linkedin.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
