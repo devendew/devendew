@@ -1,6 +1,5 @@
 ### Hi there 👋 I am Devendra Dewangan (Dev)
 
-
 <!-- **Dev121212/Dev121212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
@@ -13,4 +12,11 @@
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
+
+## GitHub Stats
+
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=devendew&show_icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devendew&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
