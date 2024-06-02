@@ -18,8 +18,8 @@
 ## GitHub Stats
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=devendew&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
-[![Your GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=devendew&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devendew&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=devendew&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=devendew.visitor-badge)
 
 ## 🛠️ Skills & Technologies
