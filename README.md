@@ -4,7 +4,9 @@
 
 <!-- Here are some ideas to get you started: -->
 
-![Banner](https://source.unsplash.com/1600x400/?workspace,desk)
+![Visitors](https://komarev.com/ghpvc/?username=devendew&label=Profile%20views&color=0e75b6&style=flat)
+
+![Banner](https://source.unsplash.com/1600x400/?code,programming)
 
 - 🔭 I’m currently working on a secret project.
 - 🌱 I’m currently learning AngularJS.
@@ -20,7 +22,6 @@
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=devendew&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devendew&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 [![Your GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=devendew&show_icons=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=devendew.visitor-badge)
 
 ## 🛠️ Skills & Technologies
 
@@ -53,6 +54,6 @@ React Code Snippet is a VS Code extension for ReactJS developers that helps in f
   </a>
 </p>
 
-
+![Banner](https://source.unsplash.com/1600x400/?workspace,desk)
 
 
