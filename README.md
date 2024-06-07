@@ -6,8 +6,6 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=devendew&label=Profile%20views&color=0e75b6&style=flat)
 
-![Banner](https://source.unsplash.com/1600x400/?code,programming)
-
 - 🔭 I’m currently working on a secret project.
 - 🌱 I’m currently learning AngularJS.
 - 👯 I want to collaborate on Python, Django, ReactJS and open-source projects.
@@ -54,6 +52,7 @@ React Code Snippet is a VS Code extension for ReactJS developers that helps in f
   </a>
 </p>
 
-![Banner](https://source.unsplash.com/1600x400/?workspace,desk)
+<!-- ![Banner](https://source.unsplash.com/1600x400/?workspace,desk) -->
+![Banner](https://source.unsplash.com/1600x400/?code,programming)
 
 
