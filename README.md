@@ -52,7 +52,5 @@ React Code Snippet is a VS Code extension for ReactJS developers that helps in f
   </a>
 </p>
 
-<!-- ![Banner](https://source.unsplash.com/1600x400/?workspace,desk) -->
-![Banner](https://source.unsplash.com/1600x400/?code,programming)
 
 
