@@ -52,6 +52,23 @@
 <!--   <img src="https://img.icons8.com/color/48/000000/cicd.png" alt="CI/CD" style="vertical-align:top; margin:4px"/> -->
 </p>
 
+## 🧑‍💻 Coding Profiles
+
+<p align="left">
+  <a href="https://auth.geeksforgeeks.org/user/your-profile" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" alt="GeeksforGeeks" style="vertical-align:top; margin:4px"/>
+  </a>
+  <a href="https://www.codingninjas.com/codestudio/profile/your-profile" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/ninja-head.png" alt="Coding Ninjas" style="vertical-align:top; margin:4px"/>
+  </a>
+  <a href="https://leetcode.com/your-profile" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="LeetCode" style="vertical-align:top; margin:4px"/>
+  </a>
+  <a href="https://www.codechef.com/users/your-profile" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/codechef.png" alt="CodeChef" style="vertical-align:top; margin:4px"/>
+  </a>
+</p>
+
 ## 📝 My Projects
 
 ### [React CRA Template](https://www.npmjs.com/package/cra-template-dev-react-starter-v1)
