@@ -7,7 +7,7 @@
 ![Visitors](https://komarev.com/ghpvc/?username=devendew&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🔭 I’m currently working on a secret project.
-- 🌱 I’m currently learning AngularJS.
+- 🌱 I’m currently learning Deep Learning, Android, etc.
 - 👯 I want to collaborate on Python, Django, ReactJS and open-source projects.
 - 💬 Ask me about C, C++, Python, Django, ReactJS, ML, AI, CI/CD, Docker, GCP.
 - 📫 How to reach me: Linkedin.
