@@ -6,6 +6,7 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=devendew&label=Profile%20views&color=0e75b6&style=flat)
 
+- Research Scholar | Data Analyst | Software Developer | AI | ML | Deep Learning | ReactJS | NodeJS | Python | Django | GCP | AWS
 - 🔭 I’m currently working on a secret project.
 - 🌱 I’m currently learning Deep Learning, Android, etc.
 - 👯 I want to collaborate on Python, Django, ReactJS and open-source projects.
