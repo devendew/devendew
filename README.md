@@ -78,6 +78,9 @@ The React CRA Template can be used to create a ReactJS project along with some o
 ### [React Code Snippet Tool](https://marketplace.visualstudio.com/items?itemName=devendra.react-code-snippet)
 React Code Snippet is a VS Code extension for ReactJS developers that helps in fast and easy coding. It provides users a quick way of writing the program syntax which saved developers time. Published in VSCode Extensions and has received 2.2K+ downloads.
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=devendew&theme=darkhub&margin-w=15&margin-h=15&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 📫 Contact Me
 
 <p align="left">
