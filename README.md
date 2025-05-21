@@ -39,7 +39,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendew&layout=compact&theme=light" width="36.5%" />
 </p>
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devendew&theme=light" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devendew&theme=light" width="48%"/>
 </p>
 
 
