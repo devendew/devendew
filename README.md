@@ -4,7 +4,7 @@
 
 🎓 **Research Scholar** | 💻 **Software Developer**
 
----
+
 
 ## 🔥 About Me
 
@@ -14,7 +14,7 @@
 - 💬 Ask me about: `C`, `C++`, `Python`, `Django`, `ReactJS`, `ML`, `AI`, `CI/CD`, `Docker`, `GCP`
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/devendew/) or drop an email: devendra.dewangan129@gmail.com
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -31,7 +31,7 @@
   <img src="https://img.icons8.com/color/48/google-cloud.png" alt="Google Cloud Platform"/>
 </p>
 
----
+
 
 ## 📈 GitHub Stats
 
@@ -43,7 +43,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devendew&theme=light" width="100%"/>
 </p>
 
----
+
 
 ## 🧠 Coding Profiles
 
@@ -54,7 +54,7 @@
   <a href="https://www.codechef.com/users/your-profile" target="_blank"><img src="https://img.icons8.com/color/48/codechef.png" alt="CodeChef"/></a>
 </p>
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -64,7 +64,7 @@ A **starter React project template** published on NPM. Bundles essential package
 ### 💡 [React Code Snippet Tool](https://marketplace.visualstudio.com/items?itemName=devendra.react-code-snippet)
 A **VS Code extension** for React developers that helps generate boilerplate snippets quickly. Already 2.2K+ downloads!
 
----
+
 
 ## 📬 Connect With Me
 
