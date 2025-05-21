@@ -12,8 +12,7 @@
 - 📚 Exploring **Deep Learning**, **Android Development**, and more
 - 🤝 Open to collaboration on **Python**, **Django**, **ReactJS**, and **Open-Source**
 - 💬 Ask me about: `C`, `C++`, `Python`, `Django`, `ReactJS`, `ML`, `AI`, `CI/CD`, `Docker`, `GCP`
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/devendew/) or drop an email: devendra.dewangan129@gmail.com
-
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/devendew/)
 
 
 ## 🛠️ Tech Stack
