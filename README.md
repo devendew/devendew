@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Devendra Dewangan (Dev)
+## 👋 Hi, I'm Devendra Kumar Dewangan (Dev)
 
 ![Visitors](https://komarev.com/ghpvc/?username=devendew&label=Profile%20views&color=0e75b6&style=flat)
 
