@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&width=100%&color=gradient&text=👋Hi,%20I'm%20Devendra%20Kumar%20Dewangan%20(Dev)&textBg=false&fontColor=000000&fontSize=40&animation=twinkling&descSize=16&section=header&reversal=false&fontAlign=50&descAlignY=45&fontAlignY=30"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&width=100%&color=gradient&text=👋Hi,%20I'm%20Devendra%20Kumar%20Dewangan%20(Dev)&textBg=false&fontColor=FFFFFF&fontSize=40&animation=twinkling&descSize=16&section=header&reversal=false&fontAlign=50&descAlignY=45&fontAlignY=30"/>
 </div>
 
 ![Visitors](https://komarev.com/ghpvc/?username=devendew&label=Profile%20views&color=0e75b6&style=flat)
