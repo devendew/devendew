@@ -66,5 +66,5 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devendew&theme=flat&margin-w=15&margin-h=15&no-bg=true&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=devendew&theme=flat&margin-w=15&margin-h=15&no-bg=true&row=1&column=8" />
 </p>
