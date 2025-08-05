@@ -4,6 +4,8 @@
 
 🎓 **Research Scholar** | 💻 **Software Developer** | 🌐 **Cloud Enthusiast**
 
+<a href="https://www.buymeacoffee.com/devendew" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important; width: 145px !important;"></a>
+
 ## 🚀 About Me
 
 - 🔭 Currently working on a **stealth project** blending AI + full-stack engineering
