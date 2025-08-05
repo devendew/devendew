@@ -46,12 +46,30 @@
 
 ## 🚀 Featured Projects
 
-### 🔧 [React CRA Template](https://www.npmjs.com/package/cra-template-dev-react-starter-v1)
-> A professional **starter template** for ReactJS projects. Includes essential packages and configurations. [Published on NPM]
+### ⚡ [Eye Cooler – VS Code Theme Extension](https://marketplace.visualstudio.com/items/?itemName=thedevtechub.eyecooler)  
+A visually elegant and eye-friendly **Visual Studio Code theme** designed for long coding sessions.  
 
-### ⚡ [React Code Snippet Tool](https://marketplace.visualstudio.com/items?itemName=devendra.react-code-snippet)
-> A handy **VS Code extension** that helps ReactJS developers code faster using ready-to-use snippets. Over **2.2K+ downloads** and growing!
+Crafted with care under *TheDevTecHub*, **Eye Cooler** provides a soothing, professional coding environment with a balanced color palette that reduces eye strain without compromising syntax clarity. Whether you're working late nights or early mornings, this theme helps you code comfortably and stay productive.
 
+> 🎨 Minimal strain, maximum focus &nbsp;|&nbsp; ✨ Elegant color palette &nbsp;|&nbsp; 🧑‍💻 Ideal for marathon coders
+
+---
+
+### 🧰 [React CRA Template – Starter Pack for React Projects](https://www.npmjs.com/package/cra-template-dev-react-starter-v1)  
+A production-ready **Create-React-App (CRA)** template built to kickstart scalable React projects.  
+
+It comes pre-configured with a clean folder structure, essential tools, and developer-friendly defaults like routing, styling, linting, and formatting support—so you can ship faster with less setup.
+
+> 📦 Published on NPM &nbsp;|&nbsp; ⚙️ Includes ESLint, Prettier, React Router, SCSS Modules &nbsp;|&nbsp; 🚀 Developer-friendly
+
+---
+
+### ⚡ [React Code Snippet Tool – VS Code Extension](https://marketplace.visualstudio.com/items?itemName=devendra.react-code-snippet)  
+Speed up your frontend development with this **VS Code extension** offering smart, ready-to-use **React code snippets**.
+
+Perfect for React developers and learners, this extension streamlines repetitive coding tasks with high-quality boilerplate snippets for components, hooks, and more.
+
+> 🚀 2.5K+ installs & counting &nbsp;|&nbsp; 🔧 Built with TypeScript &nbsp;|&nbsp; 💡 Boosts efficiency in React projects
 
 ## 💬 Let's Connect
 
