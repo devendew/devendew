@@ -9,13 +9,6 @@
 - 🔭 Currently working on a **stealth project** blending AI + full-stack engineering
 - 🌱 Actively learning **Deep Learning**, **Android**, and **DevOps best practices**
 - 🤝 Open to collaboration in **Python**, **Django**, **ReactJS**, and **Open-Source Projects**
-- 💬 Ask me about:
-  - Languages: `C`, `C++`, `Python`, `JavaScript`
-  - Frameworks: `Django`, `ReactJS`
-  - DevOps: `CI/CD`, `Docker`, `GCP`, `AWS`
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/devendew/)
-
-
 
 ## 🧰 Tech Toolbox
 
