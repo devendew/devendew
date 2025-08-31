@@ -2,7 +2,7 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=devendew&label=Profile%20views&color=0e75b6&style=flat)
 
- 🎓 **Research Scholar** | 💻 **Software Developer** | 🌐 **Cloud Enthusiast**
+🎓 **Research Scholar** | 💻 **Software Developer** | 🌐 **Cloud Enthusiast**
 
 <a href="https://www.buymeacoffee.com/devendew" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important; width: 145px !important;"></a>
 
